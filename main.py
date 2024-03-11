@@ -29,7 +29,7 @@ custom_messages = {
 **➥Step 1 GO TO **https://client.falixnodes.net/startserver 
 **➥Step 2 WRITE DOWN This IP **event.falixsrv.me
 **➥Step 3 VERIFY THE CAPTCHA**
-**➥Step 4 CLICK ON "START SERVER**""""",
+**➥Step 4 CLICK ON "START SERVER**""",
     ],
     "time": [
         """⭐ ➤➤「**Add Timer to Continue Playing!**」
@@ -53,10 +53,11 @@ async def on_message(message):
     content = message.content.lower()
 
     # Check for keywords in the message content
-    for keyword, replies in custom_messages.items():
-        if keyword in content:
-            reply = random.choice(replies)
-            await message.channel.send(reply)
-            return
+    if any(keyword in content for keyword in custom_messages.keys()):
+        for keyword, replies in custom_messages.items():
+            if keyword in content:
+                reply = random.choice(replies)
+                await message.channel.send(reply)
+                return
 
 client.run(DISCORD_TOKEN)
