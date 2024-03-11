@@ -18,7 +18,9 @@ DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 custom_messages = {
     "ip": [
         """**⭐  ➤➤「 Here is the IP of StarLand」**
-    IP - StarLand.uk.to:37340
+    IP - Java - StarLand.uk.to:37340
+    IP - Bedrock - StarLand.uk.to
+    Port - Bedrock - 37340
     Available For Minecraft Java And Bedrock Editon""",
     ],
     "start": [
