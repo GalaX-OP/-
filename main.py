@@ -17,20 +17,20 @@ DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 # Custom messages for specific keywords
 custom_messages = {
     "ip": [
-        """**🔥  ➤➤「 Here is the IP of INFERNO 」**
-    IP - InfernoSMP.us.to:34338
+        """**⭐  ➤➤「 Here is the IP of StarLand」**
+    IP - StarLand.uk.to:37340
     Available For Minecraft Java And Bedrock Editon""",
     ],
     "start": [
-        """**🔥  ➤➤「 To Start The Server  」**
+        """**⭐  ➤➤「 To Start The Server  」**
 
 **➥Step 1 GO TO **https://client.falixnodes.net/startserver 
-**➥Step 2 WRITE DOWN This IP **coal-free.falixserver.net:34338
+**➥Step 2 WRITE DOWN This IP **event.falixsrv.me
 **➥Step 3 VERIFY THE CAPTCHA**
 **➥Step 4 CLICK ON "START SERVER**""""",
     ],
     "time": [
-        """🔥 ➤➤「**Add Timer to Continue Playing!**」
+        """⭐ ➤➤「**Add Timer to Continue Playing!**」
 
 ➥ **Step 1** GO TO https://client.falixnodes.net/timer?id=1189311
 ➥ **Step 2** VERIFY THE CAPTCHA
