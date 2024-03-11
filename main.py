@@ -21,7 +21,7 @@ custom_messages = {
     IP - Java - StarLand.uk.to:37340
     IP - Bedrock - StarLand.uk.to
     Port - Bedrock - 37340
-    Available For Minecraft Java And Bedrock Editon""",
+    Available For Minecraft Java And Bedrock Edition""",
     ],
     "start": [
         """**⭐  ➤➤「 To Start The Server  」**
@@ -43,7 +43,7 @@ custom_messages = {
 @client.event
 async def on_ready():
     print(f"Logged in as {client.user.name}")
-    await client.change_presence(activity=discord.Game('Swag Hai Apna 😎⭐'))
+    await client.change_presence(activity=discord.Game('Swag Hai Apna ✨😎⭐'))
 
 @client.event
 async def on_message(message):
@@ -53,11 +53,10 @@ async def on_message(message):
     content = message.content.lower()
 
     # Check for keywords in the message content
-    if any(keyword in content for keyword in custom_messages.keys()):
-        for keyword, replies in custom_messages.items():
-            if keyword in content:
-                reply = random.choice(replies)
-                await message.channel.send(reply)
-                return
+    for keyword, replies in custom_messages.items():
+        if keyword in content:
+            reply = random.choice(replies)
+            await message.channel.send(reply)
+            break  # Stop after sending the first reply
 
 client.run(DISCORD_TOKEN)
