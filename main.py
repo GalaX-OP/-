@@ -32,7 +32,7 @@ custom_messages = {
     "time": [
         """⭐ ➤➤「**Add Timer to Continue Playing!**」
 
-➥ **Step 1** GO TO https://client.falixnodes.net/timer?id=1189311
+➥ **Step 1** GO TO https://client.falixnodes.net/timer?id=1285958
 ➥ **Step 2** VERIFY THE CAPTCHA
 ➥ **Step 3**  CLICK ON "**ADD TIME**""""",
     ],
