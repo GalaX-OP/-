@@ -2,9 +2,9 @@ from keep_alive import keep_alive
 import discord
 import os
 import random
-
+from m import m
 keep_alive()
-
+m()
 intents = discord.Intents.default()
 intents.typing = False
 intents.messages = True
