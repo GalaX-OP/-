@@ -21,7 +21,14 @@ custom_messages = {
     IP - Java - StarLand.uk.to:37340
     IP - Bedrock - StarLand.uk.to
     Port - Bedrock - 37340
-    Available For Minecraft Java And Bedrock Edition""",
+    Available For Minecraft Java And Bedrock Edition
+    
+     <:fn:1206571088109371452>➤➤「 Here is the IP of FriendsNetworks」**
+    IP - Java - friendsnetworks.falixsrv.me:27761
+    IP - Bedrock - friendsnetworks.falixsrv.me
+    Port - Bedrock - 27761
+    Available For Minecraft Java And Bedrock Edition
+    """,
     ],
     "start": [
         """**⭐  ➤➤「 To Start The Server  」**
