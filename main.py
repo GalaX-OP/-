@@ -20,13 +20,11 @@ custom_messages = {
     IP - Bedrock - StarLand.uk.to
     Port - Bedrock - 37340
     Available For Minecraft Java And Bedrock Edition
-    
     ** <:fn:1206571088109371452>➤➤「 Here is the IP of FriendsNetworks」**
     IP - Java - friendsnetworks.falixsrv.me:27761
     IP - Bedrock - friendsnetworks.falixsrv.me
     Port - Bedrock - 27761
-    Available For Minecraft Java And Bedrock Edition
-    """,
+    Available For Minecraft Java And Bedrock Edition""",
     ],
     "start": [
         """**⭐  ➤➤「 To Start The Server  」[StarLand]**
@@ -34,9 +32,8 @@ custom_messages = {
 **➥Step 1 GO TO **https://client.falixnodes.net/startserver 
 **➥Step 2 WRITE DOWN This IP **event.falixsrv.me
 **➥Step 3 VERIFY THE CAPTCHA**
-**➥Step 4 CLICK ON "START SERVER**
-          **<:fn:1206571088109371452>  ➤➤「 To Start The Server  」[FriendsNetworks]**
-
+**➥Step 4 CLICK ON "START SERVET**
+**<:fn:1206571088109371452>  ➤➤「 To Start The Server  」[FriendsNetworks]**
 **➥Step 1 GO TO **https://client.falixnodes.net/startserver 
 **➥Step 2 WRITE DOWN This IP **friendsnetworks.falixsrv.me
 **➥Step 3 VERIFY THE CAPTCHA**
