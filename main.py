@@ -21,7 +21,7 @@ custom_messages = {
     Port - Bedrock - 37340
     Available For Minecraft Java And Bedrock Edition
     
-     <:fn:1206571088109371452>➤➤「 Here is the IP of FriendsNetworks」**
+    ** <:fn:1206571088109371452>➤➤「 Here is the IP of FriendsNetworks」**
     IP - Java - friendsnetworks.falixsrv.me:27761
     IP - Bedrock - friendsnetworks.falixsrv.me
     Port - Bedrock - 27761
