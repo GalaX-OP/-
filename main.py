@@ -34,6 +34,12 @@ custom_messages = {
 **➥Step 1 GO TO **https://client.falixnodes.net/startserver 
 **➥Step 2 WRITE DOWN This IP **event.falixsrv.me
 **➥Step 3 VERIFY THE CAPTCHA**
+**➥Step 4 CLICK ON "START SERVER**
+          **<:fn:1206571088109371452>  ➤➤「 To Start The Server  」**
+
+**➥Step 1 GO TO **https://client.falixnodes.net/startserver 
+**➥Step 2 WRITE DOWN This IP **friendsnetworks.falixsrv.me
+**➥Step 3 VERIFY THE CAPTCHA**
 **➥Step 4 CLICK ON "START SERVER**""",
     ],
     "time": [
