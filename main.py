@@ -52,8 +52,7 @@ custom_messages = {
 
 ➥ **Step 1** GO TO https://client.falixnodes.net/timer?id=1304060
 ➥ **Step 2** VERIFY THE CAPTCHA
-➥ **Step 3**  CLICK ON "**ADD TIME**
-"""",
+➥ **Step 3**  CLICK ON "**ADD TIME**""",
     ],
 }
 
