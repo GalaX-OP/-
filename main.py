@@ -823,12 +823,10 @@ Max Limit 2 So Keep Increasing The Timer""",
  
 }
 
-@client.event
 async def on_ready():
     print(f"Logged in as {client.user.name}")
     await client.change_presence(activity=discord.Game('Swag Hai Apna ð'))
 
-@client.event
 async def on_message(message):
     if message.author == client.user:
         return
