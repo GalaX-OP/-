@@ -14,7 +14,7 @@ DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 # Custom messages for specific keywords
 custom_messages = {
-    "ip": [
+    "ipapp": [
         """**⭐  ➤➤「 Here is the IP of StarLand」**
     IP - Java - StarLand.uk.to:37340
     IP - Bedrock - StarLand.uk.to
@@ -26,7 +26,7 @@ custom_messages = {
     Port - Bedrock - 27761
     Available For Minecraft Java And Bedrock Edition""",
     ],
-    "start": [
+    "stffart": [
         """**⭐  ➤➤「 To Start The Server  」[StarLand]**
 
 **➥Step 1 GO TO **https://client.falixnodes.net/startserver 
@@ -39,7 +39,7 @@ custom_messages = {
 **➥Step 3 VERIFY THE CAPTCHA**
 **➥Step 4 CLICK ON "START SERVER**""",
     ],
-    "time": [
+    "tvvfffime": [
         """⭐ ➤➤「**Add Timer to Continue Playing! [StarLand]**」
 
 ➥ **Step 1** GO TO https://client.falixnodes.net/timer?id=1285958
