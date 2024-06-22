@@ -840,4 +840,4 @@ async def on_message(message):
             await message.channel.send(reply)
             return
 
-client.run(DISCORD_TOKEN)
+run(DISCORD_TOKEN)
