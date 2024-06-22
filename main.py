@@ -7,11 +7,7 @@ keep_alive()
 
 intents = discord.Intents.default()
 intents.typing = True
-intents.message_content = True
-
-client = discord.Client(intents=intents)
-intents = discord.Intents.default()
-intents.message_content = True
+intents.message_content = False
 
 client = discord.Client(intents=intents)
 
