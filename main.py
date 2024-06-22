@@ -10,6 +10,10 @@ intents.typing = False
 intents.message_content = True
 
 client = discord.Client(intents=intents)
+intents = discord.Intents.default()
+intents.message_content = True
+
+client = discord.Client(intents=intents)
 
 # Retrieve the bot token from environment variables
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
