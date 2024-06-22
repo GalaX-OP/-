@@ -6,7 +6,7 @@ import random
 keep_alive()
 
 intents = discord.Intents.default()
-intents.typing = False
+intents.typing = True
 intents.message_content = True
 
 client = discord.Client(intents=intents)
