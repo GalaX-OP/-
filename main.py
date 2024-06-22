@@ -7,9 +7,7 @@ keep_alive()
 
 intents = discord.Intents.default()
 intents.typing = True
-intents.message_content = False
-
-client = discord.Client(intents=intents)
+intents.messages = False  # Set messages to False if you don't need message events
 
 # Retrieve the bot token from environment variables
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
